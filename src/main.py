@@ -1,1 +1,4 @@
-print("thanks for traveling here!")
+from webcam import main
+
+if __name__ == "__main__":
+    main()

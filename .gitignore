@@ -1,1 +1,4 @@
 .DEVNOTES.md
+venv
+__pycache__
+.env
